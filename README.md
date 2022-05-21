@@ -3,7 +3,6 @@
 
 A JupyterLab extension for ROS.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/RoboStack/jupyterlab-ros/master?urlpath=lab/tree/examples)
 
 ### Install
 
