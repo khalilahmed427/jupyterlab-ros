@@ -3,9 +3,9 @@ channels:
 - conda-forge
 - robostack
 dependencies:
-- python=3.8
+- python=3.9
 - nodejs=14
-- jupyterlab=3.1
+- jupyterlab
 - ipympl
 - ipyvuetify
 - bqplot
@@ -17,9 +17,12 @@ dependencies:
 - ros-noetic-rosbag
 - ros-noetic-rosauth
 - ros-noetic-tf2-web-republisher
+- ros-noetic-franka-ros
 - ros-noetic-interactive-marker-tutorials
 - ros-noetic-teb-local-planner
+- ros-noetic-turtlebot3
+- ros-noetic-turtlebot3-fake
 # our stuff
 - robostack::jupyterlab-ros
 - robostack::jupyter-amphion
-# - robostack::jupyter-ros=0.5
+- robostack::jupyter-ros
